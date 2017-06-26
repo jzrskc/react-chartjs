@@ -1,0 +1,10 @@
+[Demo](http://heroku-rentacar-555.herokuapp.com/)
+
+npm i -g create-react-app
+create-react-app react Charts
+
+https://github.com/gor181/react-chartjs-2
+npm i react-chartjs-2 chart.js --save
+
+npm start
+npm run build
